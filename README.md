@@ -7,7 +7,7 @@ le jeu de données nous présente l'ensemble des valeurs d'indice d'Air en Breta
 
 L‘indice de la Qualité de l’air est un indicateur journalier prévisionnel qui permet de caractériser de manière simple et globale la qualité de l’air d’une zone géographique déterminée.
 
-Les donneées proviennent du site: https://data.airbreizh.asso.fr/contenu/services_didon.html#
+Les données proviennent du site: https://data.airbreizh.asso.fr/contenu/services_didon.html#
 
 Tout le traitement de données, les graphiques ainsi que l'analyse sur laquelle porte notre étude se trouve dans le Notebook ci-joint.
 

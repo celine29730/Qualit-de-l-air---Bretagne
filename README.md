@@ -13,5 +13,6 @@ Tout le traitement de données, les graphiques ainsi que l'analyse sur laquelle 
 
 Voici quelques graphiques obtenus au cours de notre étude:
 
-![Répartitition de la qualité de l'air en Bretagne pour 2020]
+![Répartitition de la qualité de l'air en Bretagne pour 2020](https://github.com/celine29730/Qualit-de-l-air---Bretagne/blob/main/Image1.png)
+![Qualité de l'air de Saint Brieuc](
 
